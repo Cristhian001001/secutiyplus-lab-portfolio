@@ -1,0 +1,166 @@
+# Lab Title template1
+
+## Objective
+What I set out to prove or learn.
+
+## Security+ Mapping
+- Domain: (e.g., 4.0 Security Operations)
+- Concepts: (e.g., log review, alert triage, least privilege)
+
+## Tools Used
+- Tool 1
+- Tool 2
+
+## Environment
+- OS / VM / Network setup (high-level, no secrets)
+
+## What I Did (High-Level)
+1.
+2.
+3.
+
+## Evidence
+- Screenshot/PCAP/log export references in `/evidence` (sanitized)
+
+## Results
+What I observed and what it means.
+
+## What I’d Do Next
+1–3 improvements or follow-up tests.
+
+
+# Lab Report: <Title> template1.2
+
+## 1. Scope
+- What is included
+- What is excluded
+
+## 2. Assumptions
+- Constraints (time, tools, access)
+
+## 3. Procedure (Step-by-step)
+1.
+2.
+3.
+
+## 4. Data Collected
+- Logs:
+- Screenshots:
+- PCAPs:
+- Config snippets:
+
+## 5. Findings
+- Finding 1:
+  - Evidence:
+  - Impact:
+  - Likelihood:
+
+## 6. Recommendations
+- Short-term:
+- Long-term:
+
+## 7. Verification
+How I confirmed the fix or validated the result.
+
+## 8. References
+List any documentation or learning resources used.
+
+
+
+
+
+
+# Incident Report: <Title>
+
+## Summary
+One paragraph describing what happened and the impact.
+
+## Timeline (Local Time)
+- T0:
+- T1:
+- T2:
+
+## Detection
+- How it was detected (alert, log pattern, user report)
+
+## Affected Systems
+- Hostnames (sanitized)
+- User accounts (generic labels like USER1)
+
+## Indicators of Compromise (IOCs)
+- IPs:
+- Hashes:
+- Domains:
+- Filenames:
+
+## Analysis
+- What the evidence suggests
+- What I ruled out
+
+## Containment / Eradication / Recovery
+- Containment:
+- Eradication:
+- Recovery:
+
+## Lessons Learned
+- What worked
+- What I would improve next time
+
+
+
+
+# Threat Model: <System / Scenario>
+
+## System Overview
+What the system does and what data matters.
+
+## Assets
+- Asset 1:
+- Asset 2:
+
+## Threat Actors
+- External attacker
+- Insider
+- Opportunistic
+
+## Attack Surfaces
+- Network exposure
+- Authentication
+- APIs
+- Physical
+
+## Key Threats (STRIDE-style)
+- Spoofing:
+- Tampering:
+- Repudiation:
+- Information Disclosure:
+- Denial of Service:
+- Elevation of Privilege:
+
+## Mitigations
+- Preventive:
+- Detective:
+- Corrective:
+
+## Residual Risk
+What risk remains and why.
+
+
+
+
+# Reflection: <Lab Title>
+
+## What I learned
+- Bullet points
+
+## What I struggled with
+- Bullet points
+
+## How I solved it
+- Bullet points
+
+## If this were production
+- What controls/processes I’d add
+
+## Next lab idea
+- One logical follow-up
